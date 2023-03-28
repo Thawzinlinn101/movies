@@ -1,0 +1,6 @@
+module Pods_MovieGallery_MovieGalleryTests {
+  umbrella header "Pods-MovieGallery-MovieGalleryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
